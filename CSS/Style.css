@@ -1,0 +1,63 @@
+#banner{
+    width: 100%;
+}
+
+.titulo{
+    padding-left: 30px;
+}
+
+#principal{
+    background-color: #cccccc;
+    padding: 20px;
+}
+
+#titulo2{
+    text-align: center;
+}
+
+.texto{
+    text-align: center;
+}
+
+#frase{
+    font-size: 20px;
+    text-align: center;
+}
+
+#resaltado{
+    color: red;
+}
+
+#titulo3{
+    text-align: center;
+}
+
+.items{
+    font-style: italic;
+}
+
+.diferenciales{
+    background: #ffffff;
+    padding: 30px;
+}
+
+.diferenciales ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+#imagenDiferencial{
+    width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
