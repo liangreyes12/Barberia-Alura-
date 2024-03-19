@@ -1,0 +1,104 @@
+header{
+    background-color: #cccccc;
+    padding: 20px 0;
+}
+
+.caja{
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+
+
+/*
+Originalmente Christian le coloca 
+top: 110px;
+*/
+nav{
+    position: absolute;
+    top: 48%;
+    right: 0;
+}
+
+/*
+Originalmente Christian le coloca 
+margin: 0 0 0 15px;
+*/
+nav li{
+    display: inline;
+    margin: 0 0 0 25px;
+}
+
+nav a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+nav a:hover{
+    color: #c78c19;
+    text-decoration: underline;
+}
+
+.productos{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.productos li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border-color: #000000;
+    border-width: 2px;
+    border-bottom: 10px;
+    border-style: solid;
+    border-radius: 10%;
+}
+
+.productos li:hover{
+    border-color: #c78c19;
+}
+
+.productos li:active{
+    border-color: rgb(62, 68, 68);
+}
+
+.productos h2{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.productos li:hover h2{
+    font-size: 34px;
+}
+
+.productoDescripcion{
+    font-size: 18px;
+}
+
+.productoPrecio{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+footer{
+    background-image: url(../IMG/bg.jpg);
+}
+
+.footer-Logo{
+    text-align: center;
+}
+
+#derechos{
+    color: aliceblue;
+    padding: 2%;
+}
