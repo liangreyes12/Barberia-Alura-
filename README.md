@@ -3,6 +3,6 @@ Maquetación básica con HTML y CSS para la creación de la página web de la ba
 
 <h2>Información</h2>
 
-- [x] Proyecto: En proceso
+- [x] Proyecto: Culminado
 - [ ] Responsive
 - [x] Tecnologias utilizadas (HTML, CSS)
