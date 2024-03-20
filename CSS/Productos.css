@@ -1,3 +1,7 @@
+body{
+    font-family: "Montserrat";
+}
+
 header{
     background-color: #cccccc;
     padding: 20px 0;
@@ -33,7 +37,6 @@ nav a{
     text-transform: uppercase;
     text-decoration: none;
     color: black;
-    font-weight: bold;
     font-size: 22px;
 }
 
@@ -92,6 +95,7 @@ nav a:hover{
 
 footer{
     background-image: url(../IMG/bg.jpg);
+    border: 1px solid rgb(0, 0, 0);
 }
 
 .footer-Logo{
